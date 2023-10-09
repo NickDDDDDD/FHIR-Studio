@@ -1,0 +1,103 @@
+[33mcommit 20518fe568fb50ab02aa01dbc997165651c31772[m[33m ([m[1;36mHEAD -> [m[1;32mnewFrontEnd[m[33m, [m[1;31mnewFrontEnd/newFrontEnd[m[33m)[m
+Author: NickDDDDDD <nickdong0213@gmail.com>
+Date:   Tue Sep 12 23:49:32 2023 +1000
+
+    get user data debug1
+
+[33mcommit 6cc6a098ba1b11a3ed86780cff08e05784d093b2[m
+Author: NickDDDDDD <nickdong0213@gmail.com>
+Date:   Tue Sep 12 23:19:42 2023 +1000
+
+    move fetch data to confirm selected
+
+[33mcommit d3728ccc7cd3f87316aef9ad499c28aecf15cb3b[m
+Author: Kerr <kerrrrryuan@gmail.com>
+Date:   Tue Sep 12 22:51:03 2023 +1000
+
+    get fixed observation data from sandbox. by Yuchen Dong
+
+[33mcommit d2693edf47ec3325315fd474bf0ca3d946630a78[m
+Author: Kerr <kerrrrryuan@gmail.com>
+Date:   Tue Sep 12 21:59:46 2023 +1000
+
+    add function: select time period when choose the observation
+
+[33mcommit 9fc96316ed874e943f0f295cb33259f9eeca6fbe[m
+Merge: df826bf b9197db
+Author: Kerr <kerrrrryuan@gmail.com>
+Date:   Tue Sep 12 20:22:40 2023 +1000
+
+    Merge branch 'newFrontEnd' of https://github.com/SWEN90014-2023/FH-Budgerigar into newFrontEnd
+
+[33mcommit df826bf66dd5600d676844a519ab5432bc85a3c4[m
+Author: Kerr <kerrrrryuan@gmail.com>
+Date:   Tue Sep 12 20:22:31 2023 +1000
+
+    update TODO
+
+[33mcommit b9197dbe5f687cd796797788065ebc56b443d65d[m
+Author: Yongjie Ba <baye0110@gmail.com>
+Date:   Tue Sep 12 18:11:59 2023 +1000
+
+    update graph page
+
+[33mcommit d3d0e4924dc4b0572b4b395ec99604d2e456e540[m
+Author: Yongjie Ba <baye0110@gmail.com>
+Date:   Tue Sep 12 17:54:32 2023 +1000
+
+    update patient infor
+
+[33mcommit 17cdbdb0c927be6861b7e03713155aef699b0e28[m
+Author: Yongjie Ba <baye0110@gmail.com>
+Date:   Tue Sep 12 17:49:24 2023 +1000
+
+    Patient Information
+
+[33mcommit 548a6fd2ea714066931bd20c687d49325b7f2655[m
+Author: HenryF00 <guanhuaf@student.unimelb.edu.au>
+Date:   Tue Sep 12 13:36:06 2023 +1000
+
+    add VueX to transfer the data
+
+[33mcommit 530165ab37ba24d91cb8a6886bf5bf29d0a93cd9[m
+Author: Kerr <kerrrrryuan@gmail.com>
+Date:   Mon Sep 11 23:05:21 2023 +1000
+
+    add function: select the observation type card
+
+[33mcommit 3e8f829df5b421a9effcf854fd2314f345f98ffc[m
+Author: Kerr <kerrrrryuan@gmail.com>
+Date:   Mon Sep 11 15:05:41 2023 +1000
+
+    show patient data by tables
+
+[33mcommit def1549dc858609781d1ebc7b1a04f7c05f7fe31[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: fcef113 a5d363a
+Author: NickDDDDDD <nickdong0213@gmail.com>
+Date:   Mon Sep 11 00:42:07 2023 +1000
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit fcef1136d6f1ff366f14137df83b5c040c0433fd[m
+Author: NickDDDDDD <nickdong0213@gmail.com>
+Date:   Mon Sep 11 00:32:49 2023 +1000
+
+    connected to sandbox
+
+[33mcommit a5d363ad9b922fcf43bb13c06f3a417e5f74009b[m
+Author: Kerr <kerrrrryuan@gmail.com>
+Date:   Sun Sep 10 23:22:34 2023 +1000
+
+    edit the color of template
+
+[33mcommit 360e8d6799f2abf3fd52caf85a205bdc4fb2cfbb[m
+Author: Kerr <kerrrrryuan@gmail.com>
+Date:   Sun Sep 10 21:46:07 2023 +1000
+
+    Init Project
+
+[33mcommit d867152ea051a728985fc3bf76200b56b3da6b4c[m
+Author: Kerr <kerrrrryuan@gmail.com>
+Date:   Fri Sep 8 22:05:38 2023 +1000
+
+    init
